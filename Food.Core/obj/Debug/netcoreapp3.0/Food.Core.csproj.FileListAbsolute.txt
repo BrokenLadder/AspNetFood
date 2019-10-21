@@ -1,0 +1,8 @@
+G:\Github_Repos\AspNetFood\Food.Core\bin\Debug\netcoreapp3.0\Food.Core.deps.json
+G:\Github_Repos\AspNetFood\Food.Core\bin\Debug\netcoreapp3.0\Food.Core.dll
+G:\Github_Repos\AspNetFood\Food.Core\bin\Debug\netcoreapp3.0\Food.Core.pdb
+G:\Github_Repos\AspNetFood\Food.Core\obj\Debug\netcoreapp3.0\Food.Core.csprojAssemblyReference.cache
+G:\Github_Repos\AspNetFood\Food.Core\obj\Debug\netcoreapp3.0\Food.Core.AssemblyInfoInputs.cache
+G:\Github_Repos\AspNetFood\Food.Core\obj\Debug\netcoreapp3.0\Food.Core.AssemblyInfo.cs
+G:\Github_Repos\AspNetFood\Food.Core\obj\Debug\netcoreapp3.0\Food.Core.dll
+G:\Github_Repos\AspNetFood\Food.Core\obj\Debug\netcoreapp3.0\Food.Core.pdb
